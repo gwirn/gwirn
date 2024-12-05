@@ -41,17 +41,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"  height="30" alt="vim logo" />
 
 <h3>GitHub Stats</h3>
-
-          
-<p >
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwirn&theme=nord_dark"/>
-</p>
 <p >
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gwirn&theme=nord_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gwirn&theme=nord_dark"/>
 </p>
-<p >
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gwirn&theme=nord_dark"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gwirn&theme=nord_dark&utcOffset=+1"/>
-</p>
+
 
